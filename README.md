@@ -14,7 +14,7 @@ This notebook is focused on training a deep learning model using the Xception ar
 
 *  Architecture Source: Uses tensorflow.keras.applications, meaning it likely uses a pretrained Xception model for transfer learning.
 
-📊 Predict.ipynb (newest version)
+# 📊 Predict.ipynb (newest version)
 ### Purpose:
 This notebook is for predicting using a pre-trained Xception model, matching the one from Xception_Keras (4).ipynb.
 
